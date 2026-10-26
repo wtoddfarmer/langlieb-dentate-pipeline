@@ -1,0 +1,7 @@
+.venv/
+data/
+work/
+*.RDS
+mouse_dentate.yaml
+*.log
+logs/
